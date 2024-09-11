@@ -8,7 +8,9 @@ if num1 is bigger than num2 then result will be double of num1. if not, then the
 write a simple if-else. 
 
 also, write it using ternary operator.
-
+---------------
+hello
+---------------
  */
 var prompt = require('prompt-sync')();
 let num1 = parseInt(prompt("Enter the first number: "));
